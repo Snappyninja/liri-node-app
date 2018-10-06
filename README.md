@@ -30,4 +30,4 @@ The last option reads from a the random.txt file to input a song choice, "I Want
 
 This repository is for a Javascript application using Node, containing Javascript files, .txt files, and .env file to hold the twitter and spotify keys privately.  It is meant to be run in NODE, not on a hosted site.  
 The application allows the user to access more information about a twitter account, music, and movies and to demonstrate some of the features of NODE JS, such as using NPM packages and the fuctionality they create, the ability to read from and append to text files within the application, and to call API's with privately-held keys. 
-This project was created and is maintained by me, Marjika Howarth.
+This project was created and is maintained by Jesse Hancock.
