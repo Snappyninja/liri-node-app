@@ -8,20 +8,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Snappyninja/liri-node-app.git"
+    "url": "git+https://github.com/marjika/liri-node-app.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Snappyninja/liri-node-app/issues"
+    "url": "https://github.com/marjika/liri-node-app/issues"
   },
-  "homepage": "https://github.com/Snappyninja/liri-node-app#readme",
+  "homepage": "https://github.com/marjika/liri-node-app#readme",
   "dependencies": {
     "dotenv": "^6.0.0",
+    "inquirer": "^6.0.0",
     "node-spotify-api": "^1.0.7",
     "request": "^2.87.0",
-    "spotify": "^0.3.0",
     "twitter": "^1.7.1"
   }
 }

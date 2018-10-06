@@ -1,4 +1,4 @@
-require("dotenv").config();
+require('dotenv').config();
 
 var keys = require("./keys.js");
 var inquirer = require("inquirer");
@@ -40,9 +40,10 @@ function startLiri() {
 }
 
 function twitterFunction() {
-    client.get('search/tweets', {q: 'MaggieMiner6', count: 20}, function(error, tweets, response) {
+    client.get('search/tweets', {q: 'JesseHancock12', count: 20}, function(error, tweets, response) {
         if(error){
-            console.log("Something went wrong!");
+            console.log(keys.twitter.access_token_key + " " + keys.twitter.access_token_secret);
+            console.log("Something went wrong!" );
             }
         else {
             for (var i=0; i<tweets.statuses.length; i++) {
