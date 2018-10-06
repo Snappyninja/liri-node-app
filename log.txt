@@ -20,3 +20,33 @@ my-tweets
 19. 3 on Fri Oct 05 05:29:59 +0000 2018
 4. 18 on Fri Oct 05 05:30:48 +0000 2018
 20. 2 on Fri Oct 05 05:29:55 +0000 2018
+spotify-this-song
+Spotify preview at: https://p.scdn.co/mp3-preview/b702b35bfab7a8dd7c58087c7492ddcb1f4cf712?cid=6f7fc3f2fceb43b9a4cad19208f00f11
+Artist(s): Secondhand Serenade
+Album: A Naked Twist in My Story
+Song name: Fall for You (Acoustic)
+movie-this
+movie-this
+movie-this
+The movie's year is: 1993
+The movie was made in: USA
+The movie's language(s) is/are: English, Spanish
+Movie: jurassic park
+The plot is: During a preview tour, a theme park suffers a major power breakdown that allows its cloned dinosaur exhibits to run amok.
+The movie's IMDB rating is: 8.1
+The movie's Rotten Tomatoes rating is: 91%
+The movie stars: Sam Neill, Laura Dern, Jeff Goldblum, Richard Attenborough
+movie-this
+The movie's year is: 1993
+The movie's IMDB rating is: 8.1
+The plot is: During a preview tour, a theme park suffers a major power breakdown that allows its cloned dinosaur exhibits to run amok.
+Movie: jurassic park
+The movie stars: Sam Neill, Laura Dern, Jeff Goldblum, Richard Attenborough
+The movie's Rotten Tomatoes rating is: 91%
+The movie was made in: USA
+The movie's language(s) is/are: English, Spanish
+do-what-it-says
+Album: A Naked Twist in My Story
+Spotify preview at: https://p.scdn.co/mp3-preview/b702b35bfab7a8dd7c58087c7492ddcb1f4cf712?cid=6f7fc3f2fceb43b9a4cad19208f00f11
+Song name: Fall for You (Acoustic)
+Artist(s): Secondhand Serenade
