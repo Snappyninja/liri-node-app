@@ -126,7 +126,7 @@ function movieFunction() {
           if (movieChoice.userMovie === "") {
               movieChoice.userMovie = "Mr. Nobody";
           }
-            request("http://www.omdbapi.com/?t=" + movieChoice.userMovie + "&y=&plot=short&apikey=trilogy", function(error, response, body) {
+            request("http://www.omdbapi.com/?t=" + movieChoice.userMovie + "&y=&plot=short&apikey=99f9d6f1", function(error, response, body) {
                 if (!error && response.statusCode === 200) {
                     var movieName = "Movie: " + movieChoice.userMovie;
                     var movieYear = "The movie's year is: " + JSON.parse(body).Year;
