@@ -1,100 +1,8 @@
-my-tweets
-1. Just working on my twitter API with Node. Good times. on Fri Jun 22 21:41:36 +0000 2018
-2. Why do the news people want us to hate each other? on Fri Jun 22 16:03:58 +0000 2018
-3. The mountains look so pretty today.  I wish I was a bird and could fly over them and admire them better. on Fri Jun 22 16:03:04 +0000 2018
-4. And getting a new shirt helps. on Fri Jun 22 16:01:10 +0000 2018
-5. Just got my hair done and feeling attractive again! on Fri Jun 22 16:00:51 +0000 2018
-6. Who's used Venmo? Did it work ok? Was it easy? on Fri Jun 22 16:00:16 +0000 2018
-7. Who's gone to Russia to see the World Cup? on Fri Jun 22 15:58:49 +0000 2018
-8. Happy day after first day of summer! https://t.co/ETvO9m3yIV on Fri Jun 22 15:58:04 +0000 2018
-9. Dogs or cats? on Fri Jun 22 15:56:29 +0000 2018
-10. Arggh! Too much traffic and construction!! on Fri Jun 22 15:56:04 +0000 2018
-11. OK, well, Austen is one of the best writers of the English language, but Christie is definitely underrated. on Fri Jun 22 15:53:25 +0000 2018
-12. Old/dead authors I recommend: Jane Austen and Agatha Christie, two different styles, but both entertaining. on Fri Jun 22 15:52:15 +0000 2018
-13. If you like soundtrack music, The Village is worth a listen, on Fri Jun 22 15:51:11 +0000 2018
-14. I tried the wraps at Lagoon yesterday.  A great choice for all you healthy eaters at the park. on Fri Jun 22 15:49:57 +0000 2018
-15. What's up with the new Fire Emblem summer units? I guess I shouldn't be surprised. on Fri Jun 22 15:48:39 +0000 2018
-16. Piano is the best musical instrument. Just sayin'. https://t.co/z2XSh9EfeR on Fri Jun 22 15:47:01 +0000 2018
-17. And looking forward to Jurassic World 2. Go dinosaurs! on Fri Jun 22 15:45:15 +0000 2018
-18. Incredibles 2 was great. Go see it! on Fri Jun 22 15:44:17 +0000 2018
-19. Jazz pick Grayson Allen-what?? https://t.co/WbQHKDspBW on Fri Jun 22 15:43:12 +0000 2018
-20. Good job Brazil in the World Cup! https://t.co/9GUJwL3afd on Fri Jun 22 15:41:12 +0000 2018
-spotify-this-song
-Artist(s): Miley Cyrus
-Song name: Wrecking Ball
-Spotify preview at: https://p.scdn.co/mp3-preview/73f134920237db5f77576099534ac22fd6773b96?cid=5d3fda51d81f444a83b2a15a38713a08
-Album: Bangerz (Deluxe Version)
-spotify-this-song
-Song name: The Sign
-Spotify preview at: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=5d3fda51d81f444a83b2a15a38713a08
-Album: The Sign (US Album) [Remastered]
-Artist(s): Ace of Base
-movie-this
-The movie's IMDB rating is: 8.1
-Movie: Jurassic Park
-The movie's Rotten Tomatoes rating is: 92%
-The movie's language(s) is/are: English, Spanish
-The movie was made in: USA
-The movie's year is: 1993
-The plot is: During a preview tour, a theme park suffers a major power breakdown that allows its cloned dinosaur exhibits to run amok.
-The movie stars: Sam Neill, Laura Dern, Jeff Goldblum, Richard Attenborough
-movie-this
-The movie's Rotten Tomatoes rating is: 66%
-Movie: Mr. Nobody
-The movie's year is: 2009
-The movie's language(s) is/are: English, Mohawk
-The plot is: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
-The movie's IMDB rating is: 7.9
-The movie was made in: Belgium, Germany, Canada, France, USA, UK
-The movie stars: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
-do-what-it-says
-Artist(s): Backstreet Boys
-Album: The Hits--Chapter One
-Spotify preview at: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=5d3fda51d81f444a83b2a15a38713a08
-Song name: I Want It That Way
-my-tweets
-my-tweets
-my-tweets
-my-tweets
-my-tweets
-my-tweets
-spotify-this-song
-spotify-this-song
-Album: A Naked Twist in My Story
-Song name: Fall for You (Acoustic)
-Spotify preview at: https://p.scdn.co/mp3-preview/b702b35bfab7a8dd7c58087c7492ddcb1f4cf712?cid=6f7fc3f2fceb43b9a4cad19208f00f11
-Artist(s): Secondhand Serenade
+
 my-tweets
 1. 21 on Fri Oct 05 05:30:57 +0000 2018
-2. 20 on Fri Oct 05 05:30:55 +0000 2018
 3. 19 on Fri Oct 05 05:30:51 +0000 2018
-4. 18 on Fri Oct 05 05:30:48 +0000 2018
-5. 17 on Fri Oct 05 05:30:45 +0000 2018
-7. 15 on Fri Oct 05 05:30:39 +0000 2018
-6. 16 on Fri Oct 05 05:30:42 +0000 2018
-8. 14 on Fri Oct 05 05:30:36 +0000 2018
-9. 13 on Fri Oct 05 05:30:34 +0000 2018
-10. 12 on Fri Oct 05 05:30:30 +0000 2018
-11. 11 on Fri Oct 05 05:30:27 +0000 2018
-12. 10 on Fri Oct 05 05:30:24 +0000 2018
-13. 9 on Fri Oct 05 05:30:19 +0000 2018
-14. 8 on Fri Oct 05 05:30:16 +0000 2018
-15. 7 on Fri Oct 05 05:30:12 +0000 2018
-16. 6 on Fri Oct 05 05:30:09 +0000 2018
-17. 5 on Fri Oct 05 05:30:06 +0000 2018
-18. 4 on Fri Oct 05 05:30:02 +0000 2018
-19. 3 on Fri Oct 05 05:29:59 +0000 2018
-20. 2 on Fri Oct 05 05:29:55 +0000 2018
-do-what-it-says
-Artist(s): Backstreet Boys
-Song name: I Want It That Way
-Spotify preview at: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=6f7fc3f2fceb43b9a4cad19208f00f11
-Album: The Hits--Chapter One
-my-tweets
-1. 21 on Fri Oct 05 05:30:57 +0000 2018
 2. 20 on Fri Oct 05 05:30:55 +0000 2018
-3. 19 on Fri Oct 05 05:30:51 +0000 2018
-4. 18 on Fri Oct 05 05:30:48 +0000 2018
 5. 17 on Fri Oct 05 05:30:45 +0000 2018
 6. 16 on Fri Oct 05 05:30:42 +0000 2018
 7. 15 on Fri Oct 05 05:30:39 +0000 2018
@@ -110,15 +18,5 @@ my-tweets
 17. 5 on Fri Oct 05 05:30:06 +0000 2018
 18. 4 on Fri Oct 05 05:30:02 +0000 2018
 19. 3 on Fri Oct 05 05:29:59 +0000 2018
+4. 18 on Fri Oct 05 05:30:48 +0000 2018
 20. 2 on Fri Oct 05 05:29:55 +0000 2018
-movie-this
-spotify-this-song
-Spotify preview at: https://p.scdn.co/mp3-preview/b702b35bfab7a8dd7c58087c7492ddcb1f4cf712?cid=6f7fc3f2fceb43b9a4cad19208f00f11
-Album: A Naked Twist in My Story
-Song name: Fall for You (Acoustic)
-Artist(s): Secondhand Serenade
-do-what-it-says
-Song name: I Want It That Way
-Spotify preview at: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=6f7fc3f2fceb43b9a4cad19208f00f11
-Album: The Hits--Chapter One
-Artist(s): Backstreet Boys
